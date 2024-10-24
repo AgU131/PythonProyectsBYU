@@ -22,6 +22,10 @@ Numeros
 
 Operaciones
     algo += esto    ==  algo = algo + esto
+
+Files:
+    .strip()   --> remove whitespace characters from the beginning and end of string
+    .split()   --> turn a string into a list of pieces defined by a delimiter
 """
 
-
+# code . en una terminal y abre vs code
